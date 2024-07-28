@@ -1,0 +1,6 @@
+[package]
+name = "curly_umbrealla"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
